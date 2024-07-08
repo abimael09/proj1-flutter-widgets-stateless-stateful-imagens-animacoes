@@ -1,4 +1,4 @@
-# alura_flutter_proj_1
+# _flutter_proj_1
 
 A new Flutter project.
 
